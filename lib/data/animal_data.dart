@@ -815,10 +815,6 @@ class AnimalData {
               'Provide a variety of foods to ensure balanced nutrition.'
         },
         {
-          'title': 'Feeding Tips',
-          'description': 'Avoid feeding chocolate, caffeine, and alcohol.'
-        },
-        {
           'title': 'Feeding Schedule',
           'description':
               'Cats are obligate carnivores and require a meat-based diet.'
