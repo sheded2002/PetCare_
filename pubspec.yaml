@@ -1,0 +1,39 @@
+name: pet_care
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.19.0
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  provider: ^6.0.5
+  shared_preferences: ^2.2.2
+  sqflite: ^2.2.8+4
+  path: ^1.8.2
+  image_picker: ^1.0.4
+  url_launcher: ^6.1.11
+  google_generative_ai: ^0.2.0
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.3.1
+  http: ^1.1.0
+  sqflite_common_ffi: ^2.3.5
+  sqflite_common_ffi_web: ^1.0.0
+  flutter_local_notifications: ^19.0.0
+  google_nav_bar: ^5.0.7
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/
+    - assets/
